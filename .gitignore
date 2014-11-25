@@ -9,3 +9,11 @@
 
 # RStudio files
 .Rproj.user/
+
+*.bz2
+*.html
+*.md
+*_cache
+*_files
+*.knit.md
+*.utf8.md
