@@ -1,2 +1,2 @@
-RepData_PeerAssessment2
-=======================
+Repository for RepData_PeerAssessment2
+
